@@ -1,0 +1,30 @@
+.striked {
+    text-decoration: line-through
+}
+
+.todo-list-wrapper {
+    width: 45em;
+    margin: 25px auto
+}
+
+.todo-list-item-wrapper {
+    overflow: auto;
+    max-height: 434px
+}
+
+.no-todos {
+    text-align: center;
+    padding: 20px 0px;
+    background-color: #f0f8ff
+}
+
+.todo-input-button {
+    height: 40px
+}
+
+.todo-header {
+    text-align: center;
+    margin-top: 20px !important;
+    font-family: fantasy !important;
+    color: #518ec3;
+}

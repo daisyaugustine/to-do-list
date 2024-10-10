@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "todo": "Learn React with typescript",
+        "isCompleted": false
+    },
+    {
+        "id": 2,
+        "todo": "Do a sample exercise",
+        "isCompleted": false
+    },
+    {
+        "id": 3,
+        "todo": "Provide feedback",
+        "isCompleted": true
+    },
+    {
+        "id": 4,
+        "todo": "Do the assessment",
+        "isCompleted": false
+    }
+]
